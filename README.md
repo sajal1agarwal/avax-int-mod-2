@@ -70,3 +70,4 @@ $ npm start
 ## Conclusion
 
 Follow the above instructions to set up and run the calculator project successfully. By deploying the `Form.sol` contract on the Remix IDE using Ganache as the provider and running the project locally, you can interact with the calculator and perform calculations using the calculator contract.
+video expalnation - https://www.loom.com/share/8767beb4b3f54ba3941025ead764db44?sid=7b7a1368-5934-4650-abf6-6f1e2fd9e409
