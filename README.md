@@ -14,7 +14,7 @@ Before proceeding with the setup, ensure that you have the following dependencie
 
 1. Clone the project repository:
 
-$ git clone 
+$ git clone https://github.com/sajal1agarwal/avax-int-mod-2
 
 
 2. Navigate to the project directory:
